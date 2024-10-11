@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_function_httpTrigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7218",
+      "launchBrowser": false
+    }
+  }
+}
